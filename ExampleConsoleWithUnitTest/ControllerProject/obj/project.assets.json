@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LogicProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LogicProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicProject/1.0.0": {
+      "type": "project",
+      "path": "../LogicProject/LogicProject.csproj",
+      "msbuildProject": "../LogicProject/LogicProject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LogicProject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/vladlenamarkvirer/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
+      "projectName": "ControllerProject",
+      "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
+      "packagesPath": "/Users/vladlenamarkvirer/.nuget/packages/",
+      "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/vladlenamarkvirer/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
+              "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

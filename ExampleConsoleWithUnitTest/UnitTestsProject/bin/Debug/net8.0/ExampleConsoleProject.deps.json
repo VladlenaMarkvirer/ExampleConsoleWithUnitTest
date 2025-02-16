@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExampleConsoleProject/1.0.0": {
+        "dependencies": {
+          "ControllerProject": "1.0.0",
+          "LogicProject": "1.0.0"
+        },
+        "runtime": {
+          "ExampleConsoleProject.dll": {}
+        }
+      },
+      "ControllerProject/1.0.0": {
+        "dependencies": {
+          "LogicProject": "1.0.0"
+        },
+        "runtime": {
+          "ControllerProject.dll": {}
+        }
+      },
+      "LogicProject/1.0.0": {
+        "runtime": {
+          "LogicProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleConsoleProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControllerProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

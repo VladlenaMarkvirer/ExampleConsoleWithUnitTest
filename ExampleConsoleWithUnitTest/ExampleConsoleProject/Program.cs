@@ -4,7 +4,7 @@ using ControllerProject;
 namespace ExampleConsoleProject
 {
 
-    class Program
+    public class Program
     {
         public static void ShowMoney(Money money)
         {

@@ -1,0 +1,12 @@
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/bin/Debug/net8.0/LogicProject.deps.json
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/bin/Debug/net8.0/LogicProject.dll
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/bin/Debug/net8.0/LogicProject.pdb
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/LogicProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/LogicProject.AssemblyInfoInputs.cache
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/LogicProject.AssemblyInfo.cs
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/LogicProject.csproj.CoreCompileInputs.cache
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/LogicProject.sourcelink.json
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/LogicProject.dll
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/refint/LogicProject.dll
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/LogicProject.pdb
+/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/Debug/net8.0/ref/LogicProject.dll

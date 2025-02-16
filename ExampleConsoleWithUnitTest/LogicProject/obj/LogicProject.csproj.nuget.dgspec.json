@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {}
+    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {}
   },
   "projects": {
-    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
+    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
+        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
         "projectName": "LogicProject",
-        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
+        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
         "packagesPath": "/Users/vladlenamarkvirer/.nuget/packages/",
-        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/obj/",
+        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladlenamarkvirer/.nuget/NuGet/NuGet.Config"

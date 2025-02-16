@@ -1,11 +1,14 @@
-﻿namespace ExampleConsoleProject
+﻿using LogicProject;
+
+namespace ExampleConsoleProject
 {
 
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int summa = Mathematics.SumElements(new int[] { });
+            Console.WriteLine(summa);
         }
     }
 

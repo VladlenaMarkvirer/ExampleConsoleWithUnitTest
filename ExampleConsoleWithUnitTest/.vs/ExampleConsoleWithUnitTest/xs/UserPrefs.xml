@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{19598FA2-BAD8-408D-8A1C-07B4CB7D3987}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogicProject/Mathematics.cs">
+    <Files>
+      <File FileName="LogicProject/Money.cs" />
+      <File FileName="ControllerProject/Controller.cs" Line="19" Column="27" />
+      <File FileName="ExampleConsoleProject/Program.cs" />
+      <File FileName="LogicProject/Mathematics.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExampleConsoleWithUnitTest" expanded="True">
+            <Node name="ControllerProject" expanded="True" />
+            <Node name="ExampleConsoleProject" expanded="True" />
+            <Node name="LogicProject" expanded="True">
+              <Node name="Mathematics.cs" selected="True" />
+            </Node>
+            <Node name="UnitTestsProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ExampleConsoleWithUnitTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExampleConsoleProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9c1orRADn9DdtFDn7Qxmdew+21h6JWCQ7gvx4+9kZCJ47Dx3EKuLTQ2Ftmge9xzuTQCciRANR9JreZMRBibn8g==",
+  "dgSpecHash": "JM3sIXZj2lNEJbvPS3wjVBx/ttH75u2pBJceINXGTMQgnBaM+LwEtwxr+s7y2d3jOwd7pmFH5aeMEehVvG0O4g==",
   "success": true,
-  "projectFilePath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj",
+  "projectFilePath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

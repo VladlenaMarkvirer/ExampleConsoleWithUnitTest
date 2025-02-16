@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj": {}
+    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj": {}
   },
   "projects": {
-    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj": {
+    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
+        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
         "projectName": "ControllerProject",
-        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
+        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
         "packagesPath": "/Users/vladlenamarkvirer/.nuget/packages/",
-        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/obj/",
+        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ControllerProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladlenamarkvirer/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
-                "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj"
+              "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
+                "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj": {
+    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj",
+        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj",
         "projectName": "ExampleConsoleProject",
-        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj",
+        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ExampleConsoleProject/ExampleConsoleProject.csproj",
         "packagesPath": "/Users/vladlenamarkvirer/.nuget/packages/",
-        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleProject/obj/",
+        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ExampleConsoleProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladlenamarkvirer/.nuget/NuGet/NuGet.Config"
@@ -83,11 +83,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj": {
-                "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj"
+              "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj": {
+                "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj"
               },
-              "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
-                "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj"
+              "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
+                "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj"
               }
             }
           }
@@ -121,14 +121,14 @@
         }
       }
     },
-    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
+    "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
+        "projectUniqueName": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
         "projectName": "LogicProject",
-        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
+        "projectPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/LogicProject.csproj",
         "packagesPath": "/Users/vladlenamarkvirer/.nuget/packages/",
-        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/LogicProject/obj/",
+        "outputPath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/LogicProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladlenamarkvirer/.nuget/NuGet/NuGet.Config"

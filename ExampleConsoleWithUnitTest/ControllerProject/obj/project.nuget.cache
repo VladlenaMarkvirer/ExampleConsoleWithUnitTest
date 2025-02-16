@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "StYFrqkVNR1sydFkNolQLxsBmfl55ldWzq2sqXZF359saYRvaCgbrRFRzUEMc+GX1hNBnDYzURMvuN+z4kG5aQ==",
+  "dgSpecHash": "JA5s536cuVfNLK+1JmiewnM9AlzwOuVUYJDSRd020EaRyt5Ry+qHqn8IzWDt9N0LXesMM/VFEyw/3O4USjvCFg==",
   "success": true,
-  "projectFilePath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
+  "projectFilePath": "/Users/vladlenamarkvirer/Projects/ExampleConsoleWithUnitTest/ExampleConsoleWithUnitTest/ControllerProject/ControllerProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
